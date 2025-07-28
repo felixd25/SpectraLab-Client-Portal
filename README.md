@@ -51,20 +51,52 @@ This repo is intended solely to:
 
 ## 📸 Portal Snapshots
 
-> Upload your screenshots in this section and describe each view briefly. You can format it like this:
-
 ### Login Page
 ![Login Page](ScreenShots/Login.png)
 
 ### Forget Password Page
-![Forget Password Page](ScreenShots/Forget Password.png)
+![Forget Password Page](ScreenShots/Forget_Password.png)
 
-![Customer Dashboard](ScreenShots/customer-dashboard.png)
-A high-level overview for customers showing current orders, open service requests, and quick access to support.
+### Order Overview
+![View Order Page](ScreenShots/View_Orders.png)
+>A high-level overview for users showing current orders' information and status. A collapsible navigation sidebar is attached to the left side
 
-### Admin Work Order Management
-![Admin Work Order](ScreenShots/admin-workorders.png)
-An internal admin view to manage customer repair requests, assign technicians, and update statuses.
+### Order Details
+![Order Detail Page](ScreenShots/Order_Detail.png)
+>A detailed information page of a selected order. Also contains the items' information included in the order. Further operations on existing orders can also be accessed here
+
+### Ordering Process
+![Client Detail](ScreenShots/Client_Detail.png)
+>Select an existing client for the new order. Confirm client details and shipping address here
+
+![Add_Item_to_Order](ScreenShots/Add_Item_to_Order.png)
+>Add instruments/services and payment details here. Added items will be displayed
+
+![Item/Service_Detail](ScreenShots/Item_Service_Detail.png)
+>A page to enter instrument information and corresponding service details
+
+![Order_Review](ScreenShots/Order_Review.png)
+> An overall review and confirmation of the order
+
+### Organization Pages
+
+![Organization](ScreenShots/Organization.png)
+>A list of existing organizations. Creation/deletion of organizations will be operated here.
+
+![Organization_Profile](ScreenShots/Organization_Profile.png)
+>A list of clients in the same organization. Clients in the same organization share information on orders from other members.
+
+### Roster Pages
+
+![Roster](ScreenShots/Roster.png)
+>A list of users (clients/admins). Registration invitation is sent from here.
+
+### User Profile Pages
+
+![User_Profile](ScreenShots/User_Profile.png)
+
+### Help & Contact
+![Help_And_Contact](ScreenShots/Help_And_Contact.png)
 
 <!-- Add more screenshots and descriptions below -->
 
@@ -72,7 +104,7 @@ An internal admin view to manage customer repair requests, assign technicians, a
 
 ## 📇 Contact
 
-For more details about the project or to discuss the implementation, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or [email](mailto:your.email@example.com).
+For more details about the project or to discuss the implementation, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/felix-deng-waterloo) or [email](mailto:f5deng@uwaterloo.ca).
 
 ---
 
